@@ -24,8 +24,6 @@ Welcome to the "Password Generator - Custom Edition," a Python-based tool that g
 
 
 ## How to Run
-**Clone the Repository:** git clone https://github.com/yourusername/password-generator.git
-                          cd password-generator
+**Clone the Repository:** git clone https://github.com/yourusername/password-generator.git cd password-generator
 **Ensure you have Python installed:** The game requires Python 3. Ensure you have it installed on your system.
-
 **Run the Program:** python password_generator.py
