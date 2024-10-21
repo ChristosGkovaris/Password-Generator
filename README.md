@@ -26,4 +26,4 @@ Welcome to the "Password Generator - Custom Edition," a Python-based tool that g
 ## How to Run
 - Clone the Repository: git clone https://github.com/yourusername/password-generator.git cd password-generator
 - Ensure you have Python installed: Every Python version.
-- Run the Program: python password_generator.py
+- Run the Program: python password.py / python password_v2.py
