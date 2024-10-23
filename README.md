@@ -4,16 +4,11 @@ Welcome to the "Password Generator - Custom Edition," a Python-based tool that g
 
 
 ## Program Instructions
-**Objective:** Generate secure passwords based on user preferences.
-**How to Use:**
-  - Run the program and follow the prompt.
-  - Enter 'A' to generate a password with 5 random letters followed by 5 digits.
-  - Enter 'B' to generate a password that alternates between letters and digits.
-  - The program will display the generated password.
-  - If an invalid option is chosen, the program will provide an error message.
-**Password Options:**
-  - Option A: 5 letters and 5 digits (e.g., `abcde12345`).
-  - Option B: Alternating letters and digits (e.g., `a1b2c3d4e5`).
+- Objective: Generate secure passwords based on user preferences.
+- How to Use: Run the program and follow the prompt. Enter 'A' to generate a password with 5 random letters followed by 5 digits.
+  Enter 'B' to generate a password that alternates between letters and digits. The program will display the generated password.
+  If an invalid option is chosen, the program will provide an error message.
+- Password Options: Option A: 5 letters and 5 digits (e.g., `abcde12345`). Option B: Alternating letters and digits (e.g., `a1b2c3d4e5`).
 
 
 ## Implementation Details
