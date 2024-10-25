@@ -1,3 +1,7 @@
+# Password Generator.
+# Created in October 2024.
+# Author Christos-Grigorios Gkovaris
+
 import random
 import string
 
