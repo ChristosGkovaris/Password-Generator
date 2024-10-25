@@ -1,3 +1,7 @@
+# Password Generator.
+# Created in October 2024.
+# Author Christos-Grigorios Gkovaris
+
 import random
 
 def generate_password():
@@ -23,6 +27,3 @@ def generate_password():
 # Generate and display the password
 password = generate_password()
 print(f"Generated Password: {password}")
-
-#if password:
-#    print(f"Generated Password: {password}")
