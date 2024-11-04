@@ -1,6 +1,6 @@
 # Password Generator
 
-Welcome to the "Password Generator - Custom Edition", a Python-based tool that generates secure passwords. This generator offers two modes for password creation: one that produces 5 letters followed by 5 digits, and another that alternates between letters and digits.
+Welcome to the "Password Generator", a Python-based tool that generates secure passwords. This generator offers two modes for password creation: one that produces 5 letters followed by 5 digits, and another that alternates between letters and digits.
 
 
 ## Program Instructions
