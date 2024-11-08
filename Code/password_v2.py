@@ -1,6 +1,7 @@
 import random
 import string
 
+
 def generate_password():
     choice = input("Enter 'A' for 5 letters and 5 digits, or 'B' for alternating letters and digits: ").upper()
 
